@@ -1,6 +1,6 @@
 # 🏛️ Museo VR
 
-![Museo VR Banner](https://images.unsplash.com/photo-1621791060028-5ba5b74aa80a?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80)
+![Museo VR Banner](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1909230/ss_0b493a1a6f1448eb6e5ed6198fa4f369b1546123.1920x1080.jpg?t=1688545090)
 
 Il progetto Museo VR è un'esperienza immersiva in realtà virtuale creata con Unity 6 (URP), che ti permette di esplorare un museo virtuale diviso in tre esposizioni.
 
@@ -10,24 +10,24 @@ Museo VR è un progetto interattivo che combina arte, scienza e storia all'inter
 
 🎥 Anteprima:
 
-![Preview GIF](https://media.giphy.com/media/3o7TKP2vIT7mpbZzUQ/giphy.gif)
+![Preview GIF](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1909230/extras/Intro_Big.gif?t=1688545090)
 
 Il museo è composto da tre sale principali:
 
 ### 🌀 1. Esposizione di Illusioni Ottiche
 Un viaggio nel mondo della percezione visiva. Questa sezione include installazioni interattive, pattern geometrici e ambientazioni che mettono alla prova la mente e l'occhio umano.
 
-![Illusione ottica](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cafe_wall_illusion.svg/800px-Cafe_wall_illusion.svg.png)
+![Illusione ottica](https://prague.org/wp-content/uploads/2023/02/077f94f653f6f67c5aa6da2cd1515391.large-16-9.1.jpg)
 
 ### 🗿 2. Esposizione di Sculture
 Una galleria che ospita opere scolpite in 3D, dalle forme classiche a quelle contemporanee. Le sculture possono essere osservate da ogni angolazione e in scala reale.
 
-![Scultura 3D](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/3D-printed_statue_of_David.jpg/640px-3D-printed_statue_of_David.jpg)
+![Scultura 3D](https://media1.tenor.com/m/yz_L7Pn0Dv4AAAAC/spongebob-squarepants-spongebob.gif)
 
 ### 🏎️ 3. Mostra sulla Storia della Formula 1
 Un'esperienza che ripercorre l'evoluzione della Formula 1 attraverso modelli 3D storici, pannelli informativi, immagini d'epoca e contributi video.
 
-![Formula 1 mostra](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mercedes-Benz_W196_in_Mercedes-Benz_World%2C_Brooklands.jpg/640px-Mercedes-Benz_W196_in_Mercedes-Benz_World%2C_Brooklands.jpg)
+![Formula 1 mostra](https://i.pinimg.com/originals/ff/47/b9/ff47b943483aa857a812629c7f3eda5a.gif)
 
 ## 🛠️ Tecnologie utilizzate
 
