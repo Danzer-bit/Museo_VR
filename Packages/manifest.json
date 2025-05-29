@@ -3,7 +3,7 @@
     "com.unity.ai.navigation": "2.0.5",
     "com.unity.burst": "1.8.18",
     "com.unity.cinemachine": "2.10.3",
-    "com.unity.cloud.gltfast": "file:D:/GLB Package Unity/com.unity.cloud.gltfast-main/Packages/com.unity.cloud.gltfast",
+    "com.unity.cloud.gltfast": "6.12.1",
     "com.unity.collab-proxy": "2.8.2",
     "com.unity.collections": "2.5.1",
     "com.unity.ext.nunit": "2.0.5",
